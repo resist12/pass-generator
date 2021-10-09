@@ -1,2 +1,2 @@
 # pass-generator
-a string python script by Our resist society
+a simple python script by Our resist society
